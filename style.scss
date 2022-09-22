@@ -1,0 +1,18 @@
+.about {
+    &__body {}
+    &__header {}
+    &__title {}
+    &__text {}
+    &__row {}
+    &__column {}
+}
+.title {
+}
+.item {
+    &-about {}
+}
+.item-about {
+    &__icon {}
+    &__title {}
+    &__text {}
+}
